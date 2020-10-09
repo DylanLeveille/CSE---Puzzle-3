@@ -1,4 +1,4 @@
-<b>CSE Cryptography Puzzle 3</b>
+<h1>CSE Cryptography Puzzle 3</h1>
 
 Puzzle link: https://www.cse-cst.gc.ca/en/puzzles-enigmes/puzzle-enigme-3
 
